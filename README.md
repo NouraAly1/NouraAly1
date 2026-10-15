@@ -2,6 +2,14 @@
 
 Computer Science student graduating in 2027. Open for software engineering internships. Java is my main language.
 
+## Skills
+
+- Java, my main language
+- SQL
+- Python
+- HTML, CSS, and JavaScript
+- Spring Boot, Postman, and Git, at an intermediate level and almost complete
+
 ## Currently learning
 
 I am at an intermediate level and almost done with these:
